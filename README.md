@@ -1,42 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Praveena%20Gunasekara&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Enthusiast%20%7C%20AL/ML%20Engineer%20%7C%20Bussiness%20Owner%20%7C%20Builder%20🚀&descAlignY=62&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:7c3aed,60:a855f7,100:06b6d4&height=260&section=header&text=Praveena%20Gunasekara&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20🚀&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Praveena+👋;Computer+Software+Engineering+Student;Full-Stack+Developer+in+Progress+💻;AI+%26+ML+Enthusiast+🤖;Travel+Business+Owner+✈️;Always+Learning%2C+Always+Building+🚀)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Praveena+👋;Computer+Software+Engineering+Student+📚;Full-Stack+Developer+%7C+Spring+Boot+%2B+React+💻;AI+%26+ML+Engineer+in+Progress+🤖;Founder+of+Gunasekara+Travels+✈️;Learning+%7C+Building+%7C+Shipping+🚀)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/praveena-gunasekara-4a46a5352/">
   <img src="https://img.shields.io/badge/LinkedIn-Praveena_Gunasekara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:praveengunasekara7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-praveengunasekara7-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-praveengunasekara7-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://maps.google.com/?q=Hikkaduwa,Sri+Lanka">
-  <img src="https://img.shields.io/badge/📍_Hikkaduwa,_Sri_Lanka-4CAF50?style=for-the-badge"/>
-</a>
+&nbsp;
 <a href="https://slgunasekara.github.io/amg-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366f1?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://maps.google.com/?q=Hikkaduwa,Sri+Lanka">
+  <img src="https://img.shields.io/badge/📍_Hikkaduwa,_Sri_Lanka-00897B?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=slgunasekara&label=Profile+Views&color=6366f1&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/slgunasekara?style=flat-square&color=8b5cf6&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=slgunasekara&label=Profile+Views&color=7c3aed&style=for-the-badge)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/slgunasekara?style=for-the-badge&color=a855f7&label=Followers&logo=github)
 
 </div>
 
 ---
 
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
 ## 🙋‍♀️ Who Am I?
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+Hi! I'm **Praveena (AMG) Gunasekara** — a passionate **Software Engineering student** from the sunny shores of 🌊 **Hikkaduwa, Sri Lanka**.
 
-Hi! I'm **Praveena** — a passionate **Software Engineering student** from the sunny shores of **Hikkaduwa, Sri Lanka** 🌊
-
-I'm currently pursuing my **BSc in Computer Software Engineering** at the University of Bolton while also enrolled in Software Engineering & AI/ML programs at IJSE. Oh, and I run a **travel business** on the side — because why not! ✈️
+I'm pursuing a **BSc in Computer Software Engineering** at the University of Bolton while simultaneously enrolled in **Software Engineering & AI/ML Engineering** programs at IJSE. On top of that, I run a **travel business** — because multitasking is my superpower! ✈️💻
 
 ```python
 class Praveena:
@@ -44,44 +52,47 @@ class Praveena:
     location   = "Hikkaduwa, Sri Lanka 🌊"
     education  = [
         "BSc Hons — Computer Software Engineering @ University of Bolton 🇬🇧",
-        "GDSE + AI/ML — Software Engineering @ IJSE Sri Lanka 🇱🇰"
+        "GDSE + AI/ML Engineering @ IJSE Sri Lanka 🇱🇰"
     ]
-    roles      = ["Student Developer", "Business Owner @ Gunasekara Travels ✈️"]
-    passion    = ["Full-Stack Dev", "AI/ML Engineering", "Data Analysis", "System Design"]
-    currently  = "Learning | Building | Growing 🚀"
-    fun_fact   = "I run a travel biz AND code — multitasking is my superpower 💻✈️"
+    roles      = [
+        "Student Developer @ IJSE",
+        "Founder & Owner @ Gunasekara Travels ✈️"
+    ]
+    passion    = ["Full-Stack Dev", "AI/ML", "System Design", "Data Analysis"]
+    currently  = "Learning → Building → Shipping 🚀"
+    fun_fact   = "I code by day, run a travel biz by night 💻✈️"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🔭 What I'm Up To
+## 🔭 Currently Focused On
 
 <table>
   <tr>
     <td>📚</td>
-    <td>Studying <strong>Computer Software Engineering</strong> at University of Bolton</td>
+    <td>Pursuing <strong>BSc in Computer Software Engineering</strong> at University of Bolton</td>
   </tr>
   <tr>
-    <td>🌱</td>
-    <td>Deepening skills in <strong>Full-Stack Development</strong>, <strong>Data Analysis</strong> & <strong>System Design</strong></td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>Exploring <strong>Flutter</strong>, <strong>React Native</strong> & <strong>Cloud Technologies</strong></td>
+    <td>⚙️</td>
+    <td>Mastering <strong>Full-Stack Development</strong> — Spring Boot + React + MySQL</td>
   </tr>
   <tr>
     <td>🤖</td>
-    <td>Diving into <strong>AI/ML Engineering</strong> at IJSE</td>
+    <td>Diving deep into <strong>AI/ML Engineering</strong> — TensorFlow, scikit-learn, Pandas</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td>Exploring <strong>Flutter</strong>, <strong>React Native</strong> & <strong>Cloud Technologies</strong></td>
   </tr>
   <tr>
     <td>📖</td>
-    <td>Reading up on <strong>System Design Principles</strong> & <strong>Software Architecture</strong></td>
+    <td>Reading about <strong>Software Architecture</strong> & <strong>System Design</strong></td>
   </tr>
   <tr>
     <td>🏖️</td>
-    <td>Running <strong>Gunasekara Travels</strong> in beautiful Hikkaduwa 🌊</td>
+    <td>Growing <strong>Gunasekara Travels</strong> on the beautiful south coast of Sri Lanka</td>
   </tr>
 </table>
 
@@ -109,7 +120,7 @@ class Praveena:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -125,7 +136,10 @@ class Praveena:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -137,11 +151,17 @@ class Praveena:
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=slgunasekara&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=slgunasekara&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slgunasekara&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=slgunasekara&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-[![Praveena's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=slgunasekara&theme=tokyo-night&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praveena's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=slgunasekara&theme=tokyo-night&border_radius=12&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -153,9 +173,9 @@ class Praveena:
 
 | 🏫 Institution | 📚 Program | 📅 Period | 🌍 |
 |:---|:---|:---:|:---:|
-| University of Bolton | BSc Hons — Computer Software Engineering | Feb 2025 – Feb 2028 | 🇬🇧 |
-| IJSE — Institute of Software Engineering | Graduate Diploma in Software Engineering | Jan 2025 – May 2027 | 🇱🇰 |
-| IJSE — Institute of Software Engineering | Graduate Diploma in AI/ML Engineering | Jan 2025 – May 2026 | 🇱🇰 |
+| 🏛️ University of Bolton | BSc Hons — Computer Software Engineering | Feb 2025 – Feb 2028 | 🇬🇧 |
+| 💡 IJSE — Institute of Software Engineering | Graduate Diploma in Software Engineering | Jan 2025 – May 2027 | 🇱🇰 |
+| 🤖 IJSE — Institute of Software Engineering | Graduate Diploma in AI/ML Engineering | Jan 2025 – May 2026 | 🇱🇰 |
 
 </div>
 
@@ -178,7 +198,21 @@ class Praveena:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=slgunasekara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=slgunasekara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -189,11 +223,11 @@ class Praveena:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/praveena-gunasekara-4a46a5352/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:praveengunasekara7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://slgunasekara.github.io/amg-portfolio/">
@@ -202,10 +236,10 @@ class Praveena:
 
 <br/><br/>
 
-> *"The difference between a beginner and a pro? Not coding… how you manage code."* 💡
+> *"The difference between a beginner and a pro is not just code — it's how you craft experiences."* 💡
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:a855f7,70:7c3aed,100:6366f1&height=140&section=footer&animation=fadeIn"/>
