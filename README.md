@@ -198,7 +198,7 @@ class Praveena:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=slgunasekara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=slgunasekara&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -206,13 +206,59 @@ class Praveena:
 
 ## 🐍 Contribution Snake
 
+> ⚙️ **Setup Required:** Add the workflow below to generate the snake animation on your profile repo.
+
+<details>
+<summary>📋 Click to see GitHub Actions setup</summary>
+
+Create `.github/workflows/snake.yml` in your `slgunasekara/slgunasekara` repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After setup, replace the GIF below with:
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-contribution-grid-snake.svg"/>
+</picture>
+```
+
+</details>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/slgunasekara/slgunasekara/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" alt="contribution animation" width="100%"/>
 
 </div>
 
