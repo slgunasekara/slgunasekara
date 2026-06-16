@@ -56,7 +56,8 @@ class Praveena:
     ]
     roles      = [
         "Student Developer @ IJSE",
-        "Founder & Owner @ Gunasekara Travels ✈️"
+        "Owner @ Gunasekara Travels ✈️"
+        "Founder @ SL Travel Buddy"
     ]
     passion    = ["Full-Stack Dev", "AI/ML", "System Design", "Data Analysis"]
     currently  = "Learning → Building → Shipping 🚀"
