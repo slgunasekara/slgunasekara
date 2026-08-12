@@ -55,6 +55,7 @@ class Praveena:
         "GDSE + AI/ML Engineering @ IJSE Sri Lanka 🇱🇰"
     ]
     roles      = [
+        "Founder @ AMG Lanka Group (PVT/LTD)"
         "Student Developer @ IJSE",
         "Owner @ Gunasekara Travels ✈️"
         "Founder @ SL Travel Buddy"
